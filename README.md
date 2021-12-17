@@ -1,3 +1,3 @@
-# kurniawan hamdi
-dsini kami belajar menggunakan github
+
+disini kami belajar menggunakan github
 
